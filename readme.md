@@ -15,6 +15,7 @@ Majd a beállítások gombra
 
 ![alt text](img/image3.png)
 
-A szürke import gomb segítségével importáld be ezt a fáljt:
+A szürke import gomb segítségével importáld be ezt a fáljt(letöltéshez: jobb klikk -> hivatkozás mentése más néven):
+> https://raw.githubusercontent.com/z0ligit/DYOM-magyar/main/FoxReplace.json
 
 ![alt text](img/image4.png)
