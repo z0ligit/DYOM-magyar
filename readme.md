@@ -19,3 +19,13 @@ A szürke import gomb segítségével importáld be ezt a fáljt(letöltéshez: 
 > https://raw.githubusercontent.com/z0ligit/DYOM-magyar/main/FoxReplace.json
 
 ![alt text](img/image4.png)
+
+Majd az "Import and append" gombot nyomd meg
+
+![alt text](img/image5.png)
+
+Az akció után így kell kinéznie az oldalnak
+
+![alt text](img/image6.png)
+
+Ha minden igaz és jól csináltad, akkor megjavultak a gyomos weboldalon az ékezetek
