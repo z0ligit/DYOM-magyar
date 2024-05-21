@@ -28,6 +28,10 @@ Az akció után így kell kinéznie az oldalnak
 
 ![alt text](img/image6.png)
 
+Ha az "Apply automatic substitutions on page load" nincs bekapcsolva az oldal alján, akkor kapcsold be
+
+![alt text](img/image8.png)
+
 Ha minden igaz és jól csináltad, akkor megjavultak a gyomos weboldalon az ékezetek
 
 ![alt text](img/image7.png)
