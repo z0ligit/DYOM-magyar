@@ -331,6 +331,24 @@
       "html": "none",
       "enabled": true,
       "mode": "auto&manual"
+    },
+    {
+      "name": "ó",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á³",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ó",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
     }
   ]
 }
