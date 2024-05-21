@@ -2,6 +2,24 @@
   "version": "2.6",
   "groups": [
     {
+      "name": "á",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "á",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
       "name": "é",
       "urls": [
         "dyom.gtagames.nl"
@@ -235,6 +253,78 @@
           "inputType": "text",
           "outputType": "text",
           "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "é",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á©",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ü",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á¼",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ü",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "l",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "¶",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "l",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "á",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á¡",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "á",
           "caseSensitive": false
         }
       ],
