@@ -29,3 +29,5 @@ Az akció után így kell kinéznie az oldalnak
 ![alt text](img/image6.png)
 
 Ha minden igaz és jól csináltad, akkor megjavultak a gyomos weboldalon az ékezetek
+
+![alt text](img/image7.png)
