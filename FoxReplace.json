@@ -1,0 +1,390 @@
+{
+  "version": "2.6",
+  "groups": [
+    {
+      "name": "ö",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã¶",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ö",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "á",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "á",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "é",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã©",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        },
+        {
+          "input": "Ã‰",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "á",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã¡",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "á",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ú",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ãº",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ú",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ü",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã¼",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ü",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ó",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã³",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ó",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ő",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ãµ",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ő",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "í",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Ã",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "í",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "é",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "&",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ú",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "íš",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ú",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ö",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "í–",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ö",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ő",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "Å‘",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ő",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "é",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "í",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "é",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á©",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "é",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ü",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á¼",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ü",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "l",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "¶",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "l",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "á",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á¡",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "á",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ó",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á³",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ó",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "ú",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "áº",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "ú",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "É",
+      "urls": [
+        "dyom.gtagames.nl"
+      ],
+      "substitutions": [
+        {
+          "input": "á‰",
+          "inputType": "text",
+          "outputType": "text",
+          "output": "É",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
